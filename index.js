@@ -60,9 +60,8 @@ const init = () => {
             choices: 
             [
                 'MIT', 
-                'APACHE 2.0', 
-                'GPL 3.0', 
-                'BSD 3', 
+                'GPL', 
+                'BSD', 
                 'None'
             ],
         },
