@@ -52,11 +52,11 @@ function writeToFile(fileName, userInput) {
     
 // TODO: Create a function to initialize app
 function init() {
-    // writeToFile('README.md', generateMarkdown(data));    
-    inquirer.prompt(questions)
-    .then(function(data){
-        writeToFile("README.md", data);
-    });
+    writeToFile('README.md', generateMarkdown(data));    
+    // inquirer.prompt(questions)
+    // .then(function(data){
+    //     writeToFile("README.md", data);
+    // });
 }
 
 // Function call to initialize app
