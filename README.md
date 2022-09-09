@@ -25,5 +25,5 @@ README after being generated
 
 ## Link to the video
 
-![Walkthrough Video](https://drive.google.com/file/d/11KlT4_Pekzm61ngwX0Ir_r898aJerYte/view?usp=sharing)
+![Walkthrough Video](https://drive.google.com/file/d/15KctFx7GUpuu4-i6wnY1M52pBQkRdqTJ/view)
 

@@ -1,4 +1,4 @@
-# README GENERATOR ![License](https://img.shields.io/aur/license/A)
+# README Generator ![License](https://img.shields.io/aur/license/j)
   
   ## Table of Contents
   * [Installation](#installation)
@@ -8,28 +8,28 @@
   * [Questions](#questions)
  
   ## Descriptions
-  To help decrease the time in writing README file.
+  make less time in writing readme file.
   
   ## Installation
-  install npm inquirer@8.2.4
+  using install nmp inquirer@8.2.4
    
 
   ## Usage
-  To generate the README by following the prompts.
+  Just follow the prompt.
   
 
   ## Contribution
-  My instructor, shields.io
+  to my instructor, shields.io
   
 
   ## Test
-  use command node index.js.
+  just run node index.js
   
 
   ## License
-  BSD
+  GPL
   
 
   ## Questions
   You can check my project at [GitHub:](git@github.com)
-  For additional questions plese feel free to reach me at sweet@sweetplace.com
+  For additional questions plese feel free to reach me at sweet@sweet.com
