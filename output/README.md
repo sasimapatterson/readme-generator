@@ -1,4 +1,4 @@
-# dkdkdk [GitHub License](https://img.shields.io/bower/l/Mi)
+# README GENERATOR ![License](https://img.shields.io/aur/license/A)
   
   ## Table of Contents
   * [Installation](#installation)
@@ -8,28 +8,28 @@
   * [Questions](#questions)
  
   ## Descriptions
-  dkdkdk
+  To help decrease the time in writing README file.
   
   ## Installation
-  dkdkdk
+  install npm inquirer@8.2.4
    
 
   ## Usage
-  dkdkdk
+  To generate the README by following the prompts.
   
 
   ## Contribution
-  dkdkdk
+  My instructor, shields.io
   
 
   ## Test
-  dkdkdk
+  use command node index.js.
   
 
   ## License
-  MIT
+  BSD
   
 
   ## Questions
   You can check my project at [GitHub:](git@github.com)
-  For additional questions plese feel free to reach me at sweet@sweet.com
+  For additional questions plese feel free to reach me at sweet@sweetplace.com

@@ -3,11 +3,11 @@
 function renderLicenseBadge(license) {
   let badge = '';
   if(license === 'MIT'){
-    badge = '[GitHub License](https://img.shields.io/bower/l/Mi)'
+    badge = '![License](https://img.shields.io/bower/l/Mi)'
   } else if (license === 'GPL') {
-    badge = '[GitHub License](https://img.shields.io/aur/license/j)'
+    badge = '![License](https://img.shields.io/aur/license/j)'
   } else if (license === 'BSD'){
-    badge = '[GitHub License](https://img.shields.io/aur/license/A)'
+    badge = '![License](https://img.shields.io/aur/license/A)'
   } else {
     badge = ''
   }
@@ -68,18 +68,3 @@ function generateMarkdown(data) {
 module.exports = generateMarkdown;
 
 
-// const displayLicenseBadge = (name) => {
-//   return `<img src='https://img.shields.io/badge/license-${name}-color'
-//    alt= 'badge'>`;
-// }
-
-// if (license !== 'None') {
-//   const encodedLicense = encodeURIComponent(license);
-//   return `![GitHub license](https://img.shields.io/badge/license-${encodedLicense}-blue.svg)`;
-// }
-// https://img.shields.io/bower/l/Mi (MIT)
-
-// https://img.shields.io/aur/license/A (BSD)
-
-// https://img.shields.io/aur/license/j (GPL)!
-// [${data.license}]('https://img.shields.io/badge/license-${data.license}-blue')

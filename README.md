@@ -14,7 +14,16 @@ For Developers, to be able to create README with less time will help them to foc
 ## Visuals
 
 ```bash
-
+ Command-line for the README GENERATOR app
 ```
+![comman-line](./images/command-line-readme-generator.png)
+
+```bash
+README after being generated
+```
+![completed README](./images/readme-generator.png)
+
 ## Link to the video
+
+![Walkthrough Video](https://drive.google.com/file/d/11KlT4_Pekzm61ngwX0Ir_r898aJerYte/view?usp=sharing)
 
